@@ -19,6 +19,7 @@ Lastly, The Davey Tree Expert Company has a plethora of technical bulletins that
 4. Map client routes
 5. View static technical bulletins
 6. *incorporate Davey NatureClock app* (may not be possible due to security issues)
+7. Technician login (we have many technicians and offices countrywide)
 
 ### Technologies
 1. Python 3.7
